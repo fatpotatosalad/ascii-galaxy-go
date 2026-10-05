@@ -1,0 +1,10 @@
+# Local credentials and configuration
+/config.toml
+.env
+.env.*
+!.env.example
+
+# Build output
+/ascii-galaxy-go
+/ascii-galaxy-go.exe
+/bin/
